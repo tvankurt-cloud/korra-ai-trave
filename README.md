@@ -1,1 +1,1 @@
-# korra-ai-trave
+# korra-ai-travel
